@@ -1,3 +1,18 @@
-NLP Tasks:
+Common NLP Tasks:
   1. Text Classification
   2. Text Similarity
+  3. Infromation Extraction
+  4. Information Retrieval
+  5. Chat Bots
+  6. Machine Translation
+  7. Language Modeling
+  8. Text Summarization
+  9. Voice Assistants
+  
+ 
+ Spacy vs NLTK
+  1. Spacy is object-oriented and NLTK is string-processing library
+  2. Spacy provides most efficent NLP algorithm for a given task. NLTK provides access to many algorithms.
+  3. Spacy is more user-friendly.
+  
+  
